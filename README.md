@@ -25,7 +25,7 @@ VPS
 1. I recommend using a vps from Paizo.cloud. You can get one for $9.80/month 
 2. Run `sudo apt install git` command (if something goes wrong do 'sudo apt update' command
 3. Run `git clone https://github.com/Zero-XD/feeder-bots-edited.git` command
-4. Run `cd free-agario-bots` command
+4. Run `cd feeder-bots-edited` command
 5. Run `sudo chmod +x install.sh` command
 6. Run `sudo ./install.sh` command
 7. Run `node server` command and leave the process running
