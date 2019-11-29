@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Free Agar.io Bots (Vanilla Version)
+// @name         Agario Bots Premium (Edited By Zero)
 // @namespace    Free Agario Bots + Potion Hack(Zero Bots)
 // @version      2.1
 // @description  Free and Real open source agario bots
@@ -478,7 +478,7 @@ function setGUI() {
             <a href="https://discord.gg/SDMNEcJ" target="_blank">Agar.io Bots</a>
         </h3>
         <h5 id="botsAuthor">
-            Developed by <a href="https://www.youtube.com/channel/UCUlp1mr5FCl1JR1t9-ZZ90A?view_as=subscriber" target="_blank">Zero XD</a><a href="https://github.com/xN3BULA" target="_blank"></a><a href="http://legendmod.ml/" target="_blank"></a>
+            Developed by <a href="https://www.youtube.com/channel/UCUlp1mr5FCl1JR1t9-ZZ90A?view_as=subscriber" target="_blank">Zero XD</a><a href="https://github.com/xN3BULA" target="_blank"></a><a href="" target="_blank"></a>
         </h5>
         <span id="statusText">Status: <b id="userStatus">Disconnected</b></span>
         <br>
